@@ -7,6 +7,6 @@
    -F(ile add):[SectionName=]Filename[.ext] - add real (initialized) data section with [SectionName] as name (tag) and Filename as content<br/>
 
  Simple console utility application can be used to view map of PE32 sections. Also this utility is able to add a section descriptor for 'virtual' section or data section (content must be prepared in file).
- There is test application for experiments with this utility.
+ There is <a href="https://github.com/Victor-Soldatov/TestSMVW">test application</a> for experiments with this utility.
 
  Use makefile to build executable file. Adjust variables with valid pathes.
